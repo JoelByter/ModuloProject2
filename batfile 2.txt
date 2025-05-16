@@ -1,0 +1,4 @@
+@echo off
+REM Ejecutar el script Python con el archivo datos.txt
+python procesar_datos.py datos.txt
+pause
